@@ -1,0 +1,23 @@
+#lightCharacter {
+    margin-bottom: 10px;
+}
+
+#lightCharacter button {
+    background-color: white;
+    padding: 10px;
+    border: solid 2px red;
+    margin: 0;
+}
+
+#lightCharacter p {
+    margin: 0;
+    padding: 0;
+}
+
+#fight {
+    margin: 100px 0;
+}
+
+#fight button {
+    padding: 20px 40px;
+}
